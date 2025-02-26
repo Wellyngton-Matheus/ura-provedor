@@ -9,7 +9,7 @@ import datetime
 
 sys.stdout = codecs.getwriter("utf-8")(sys.stdout.detach())
 
-API_TOKEN = "f179f7c4-39ca-47e3-837d-17d474370c40"
+API_TOKEN = "TOKEN_AQUI"
 
 def formatar_cpf(cpf):
     """Formata um CPF de 'XXXXXXXXXXX' para 'XXX.XXX.XXX-XX'."""
