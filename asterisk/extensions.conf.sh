@@ -1,5 +1,5 @@
 
-; ATIVIDADE AGI
+; URA DE PROVEDOR
 [projeto]
 exten => 2222,1,Answer()
         same => n,Verbose(1, "Iniciando atendimento na URA")
